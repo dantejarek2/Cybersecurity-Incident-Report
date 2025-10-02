@@ -15,7 +15,3 @@ In the tcpdump log, you find the following information:
   7. The remaining lines in the log indicate that ICMP packets were sent two more times, but the same delivery error was received both times. 
 
 Now that you have captured data packets using a network analyzer tool, it is your job to identify which network protocol and service were impacted by this incident. Then, you will need to write a follow-up report. 
-
-As an analyst, you can inspect network traffic and network data to determine what is causing network-related issues during cybersecurity incidents. Later in this course, you will demonstrate how to manage and resolve incidents. For now, you only need to analyze the situation. 
-
-This event, in the meantime, is being handled by security engineers after you and other analysts have reported the issue to your direct supervisor. 
